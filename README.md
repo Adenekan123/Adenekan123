@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adenekan Usman</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adenekan123" alt="adenekan123" /></a> </p>
-
 - 🔭 I’m currently working on a Airline Staff Management Project [Trios](https://github.com/Adenekan123/FlightProject)
 
 - 💬 Ask me about **React.js and Node.js**
